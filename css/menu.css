@@ -66,9 +66,8 @@ h1, h2, h3, h4, h5, h6, p, a, i {
     text-decoration: none;
 }
 
-h1 {
+h1 a{
     font-size: 7.5rem;
-    outline: 1px solid red;
 }
 
 h2 {
