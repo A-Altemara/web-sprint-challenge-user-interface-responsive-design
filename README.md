@@ -26,7 +26,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 ​
 [Click here for home page mobile example](https://i.ibb.co/svmmXzn/home-mobile.png)
 ​
-[Click here for the menu page example](https://i.ibb.co/NxLyLCH/menu-desktop.png)
+[Click here for the menu page example](https://i.ibb.qco/NxLyLCH/menu-desktop.png)
 ​
 [Click here for menu page mobile example](https://i.ibb.co/Wsc2vpz/menu-mobile.png)
 ​
