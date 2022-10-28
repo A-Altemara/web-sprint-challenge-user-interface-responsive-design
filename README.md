@@ -69,11 +69,11 @@ You **must** use the Google Chrome developer tools during your HTML/CSS implemen
 ​
 Review the provided design file for the home page.
 ​
-* [ ] Build the HTML and CSS to create the missing header and footer sections.
-* [ ] Link the h1 page title to the [index.html](index.html) page.
-* [ ] Link the `Menu` navigation item to the [menu.html](menu.html) page.
-* [ ] Create social media buttons on header for Facebook, Twitter, and Instagram with icons from [FontAwesome](https://fontawesome.com/search). *NOTE: * ENSURE that the icon name includes "facebook", "twitter", or "instagram" respectively.
-* [ ] Build the rest of the home page layout to match the design. Much of it has already been implemented; you should only need to fix the header, footer, and gallery portions.
+* [x] Build the HTML and CSS to create the missing header and footer sections.
+* [x] Link the h1 page title to the [index.html](index.html) page.
+* [x] Link the `Menu` navigation item to the [menu.html](menu.html) page.
+* [x] Create social media buttons on header for Facebook, Twitter, and Instagram with icons from [FontAwesome](https://fontawesome.com/search). *NOTE: * ENSURE that the icon name includes "facebook", "twitter", or "instagram" respectively.
+* [x] Build the rest of the home page layout to match the design. Much of it has already been implemented; you should only need to fix the header, footer, and gallery portions.
 ​
 Colors and fonts:
 Light text: rgb(225, 239, 230);
@@ -89,8 +89,8 @@ Review the provided design files for the menu page.
 * [x] Update the header image with the menu page image.
 * [x] Use the article element for the menu and a div inside of it; change the div's class to "menu-container"
 * [x] Create a container for each item (e.g. soda or burger) with class "menu-item"
-* [ ] Add an H4 for every price and title of the menu, two h4 for each menu
-* [ ] Add a p element for every description, second line such as (v) will require it's own p
+* [x] Add an H4 for every price and title of the menu, two h4 for each menu
+* [x] Add a p element for every description, second line such as (v) will require it's own p
 ​
 Colors and fonts for desktop:
 Light text: rgb(225, 239, 230);
