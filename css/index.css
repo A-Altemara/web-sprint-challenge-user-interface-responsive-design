@@ -230,14 +230,20 @@ footer {
     font-size: 3rem;
     background-color: black;
 }
-footer div form{
+footer label{
     color: white;
 }
 
 /* mobile media query */
 @media (max-width: 428px) {
     /* header section */
-    
+    h1{
+        width: 90%;
+    }
+    .buttons{
+        flex-direction: column;
+    }
+
 
     /* gallery section */
     .gallery {
